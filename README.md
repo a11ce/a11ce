@@ -1,7 +1,8 @@
 hello :3
 
-check out:
-- my website at https://a11ce.com
+check out my:
+- website at https://a11ce.com
+- twitter at https://twitter.com/oxa11ce
 - worldbuilding project at https://a11ce.com/aetherwiki/
 
 ```math
